@@ -5,7 +5,7 @@
 
 <h1>osTicket - Post Configuration Setup</h1>
 </p>
-This tutorial demonstrates the post configuration setup of the osTicket system .<br />
+This lab demonstrates the post configuration setup of the osTicket system .<br />
 
 <p>
 
